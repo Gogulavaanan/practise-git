@@ -7,15 +7,15 @@ public class second {
 		//System.out.println("welcome");
 		//System.out.print("wel");
 		//System.out.println("come");
-	//	System.out.println("12"+"3");
-		//System.out.println(12+3);
-		//System.out.println("12+3");
-		//System.out.println(3+"5");
-	//	System.out.println(52/5);
-		//System.out.println(52%5);
+		System.out.println("12"+"3");
+		System.out.println(12+3);
+		System.out.println("12+3");
+		System.out.println(3+"5");
+	    System.out.println(52/5);
+		System.out.println(52%5);
 		//System.out.println(52*5);
 		//String  a ="java";
-				//String b = "Besant";
+	    //String b = "Besant";
 				//System.out.println(a+b);
 			//	System.out.println(a+" "+b);
 		//var  a ="java";
@@ -25,7 +25,7 @@ public class second {
 		
 		int a=10;
 		int b=30;
-		System.out.println(a+b);
+		//System.out.println(a+b);
 		
 		
 				
